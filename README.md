@@ -1,1 +1,1 @@
-# SE-Level-1
+# This git repo is used for all SE lab submissions.
