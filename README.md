@@ -1,1 +1,1 @@
-# This git repo is used for all SE lab submissions.
+# This github repository is used for all SE lab submissions.
